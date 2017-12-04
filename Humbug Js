@@ -14,7 +14,8 @@
 
 		$(".hambug-menu").on('click', function() {
         	$('.main-menu').toggleClass('menu-open');
-    	});
+    		});
+		
 		$(".hambug-menu").on('click', function() {
         	$('.offcanvas-menu').toggleClass('menu-open');
-    	});
+    		});
